@@ -1,0 +1,16 @@
+{
+  "name": "mkimg",
+  "version": "0.1.0",
+  "description": "Make demo images",
+  "main": "mkimg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "guileen@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.5.0",
+    "commander": "^2.9.0",
+    "svg2png": "^4.0.0"
+  }
+}
